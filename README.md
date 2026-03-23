@@ -547,3 +547,15 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 
   - [Honeypot research papers](https://github.com/shbhmsingh72/Honeypot-Research-Papers) - PDFs of research papers on honeypots.
   - [vEYE](https://link.springer.com/article/10.1007%2Fs10115-008-0137-3) - Behavioral footprinting for self-propagating worm detection and profiling.
+
+---
+
+## Fork Notes
+
+This is a personal fork maintained by David Whittington. Upstream source: [paralax/awesome-honeypots](https://github.com/paralax/awesome-honeypots).
+
+## Changelog
+
+### 2026-03
+- Synced with upstream through PR #120
+- Upstream additions include: lophiid web application honeypot, GenAIPot, Trapster Community, SAP/cloud-active-defense
